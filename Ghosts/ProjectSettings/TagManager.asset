@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Possessable
+  - PushTrigger
+  - SpawnPoint
+  - Rooms
+  - Item
+  - Template
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Player
+  - Enemies
+  - Bullets
+  - RoomCheckers
+  - Barriers
+  - 
+  - Pickups
+  - Items
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2930735637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 3487137931
+    locked: 0
+  - name: Obscurers
+    uniqueID: 2837740855
+    locked: 0
